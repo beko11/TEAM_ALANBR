@@ -1,17 +1,12 @@
-<h1 align="center"><span style="font-family:times new roman,times,serif;"><span style="color:#000000;"><span style="font-size: 36px;"><samp><span style="background-color:#A9A9A9;">update in 2017/07/13</span></samp></span></span></span></h1>
+# [TEAM_ALANBR](t.me/TEAM_ALANBR)
+# BEST SOURCE ON TELEGRAM
 
-
-# <p align="center">  <p align="center">![https://storevps.net/wp-content/uploads/2017/06/logo1-1.png](https://storevps.net/wp-content/uploads/2017/06/logo1-1.png)
-# <p align="center">😯SVcli😯
-# <p align="center">👉 site : [StoreVps](https://storevps.net/)
-# <p align="center">👉 Channel : [@storevps](http://telegram.me/storevps)
-# <p align="center">👉 edit source :  [@kamranya](http://telegram.me/kamranya)
 
 # install:
 
 ---------------------------------------------------------
 
- دستورات تک تک زده شوند
+ لتنصيب :-
  
 cd $home
 
@@ -33,11 +28,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $home
 
-git clone https://github.com/storevpsnet/SVcli.git
+git clone https://github.com/storevpsnet/TEAM_ALANBR.git
 
 ----------------------------------------------------------------
 
-cd SVcli
+cd TEAM_ALANBR
 
 sudo apt-get install axel
 
@@ -74,18 +69,10 @@ cd luarocks-2.2.2
 
 --------------------------------------------------------------------
 
-<p align="center">باسلام</p>
-<p align="right"> فایل زیر را پیدا کنید و باز کنید</p>
-<p align="center"> cli </p>
-<p align="right">
- و در لاین های زیر آیدی اکانت سودو را قرار دهید
-</p>
-<p align="center"> 13 & 12 </p>
 
--------------------------------------------------------------------
 cd $home
 
-cd SVcli
+cd TEAM_ALANBR
 
 chmod 777 launch.sh
 
@@ -98,12 +85,9 @@ chmod 777 tg
 
 ---------------------------------------------------------------------
 
-<p align="right">
-برای اتولانچ
-</p>
 
 killall screen
 
-cd SVcli
+cd TEAM_ALANBR
 
 screen ./launch.sh
